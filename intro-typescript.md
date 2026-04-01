@@ -47,3 +47,21 @@ Covers arrays with union types, object typing with nested properties, and the `R
 
 ## 05-enum.ts
 Introduces enums, specifically string enums, and shows how to assign `enum` values properly.
+
+## 06-alternative-to-enum.ts
+It shows the literal types can be used instead of enums to define the fixed values.
+
+## 07-custom-type-role.ts
+Shows how different types of aliases create a reusable custome types and apply later to objects.
+
+## 08-functions.ts
+This file explains hos function typing, return types, void and never types, callbackl functions can be used.
+
+## 09-special-types.ts
+How null and undefined types work, how they can be used as combined or not with other types.
+
+## 10-form.html and 10-type-narrowing.ts
+Shows how type narrowing and hpw to safely access DOM elements using checks or casting.
+
+## 11-optional.ts
+Shows optional parameters, optional object properties, and null coalescing oprator.
